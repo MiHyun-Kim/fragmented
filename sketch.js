@@ -293,7 +293,7 @@ pop();
 
 }
 else if(count == 5) {
-background(238, 210, 2);
+background(255, 108, 47);
 
 //kione
 x = random(200, 350);
